@@ -1,7 +1,7 @@
 from course_uni import Course
 
 class Professor:
-    """common base class for all professors"""
+    #common base class for all professors
     numReg = []
 
     # basic init method for Course class
@@ -16,7 +16,7 @@ class Professor:
     # when called, the professor family and instructed courses will be shown
     def displayProfessor(self, numProfessor):
         if self.number == numProfessor:
-            print('Welcome Dear Dr.' + self.family)
+            print('Welcome  Dr.' + self.family)
             print('You are the instructor of %d course(s) ' % len(self.profCourses))
 
     # when called, new course will be added to the profCourses list

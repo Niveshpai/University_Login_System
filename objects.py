@@ -2,8 +2,8 @@ from professor import Professor
 from course_uni import Course
 from student import Student
 
-professor1 = Professor(1, 'John', 'Doe')
-professor2 = Professor(2, 'Robert', 'Fischer')
+professor1 = Professor(1, 'John')
+professor2 = Professor(2, 'Robert')
 professor3 = Professor(3, 'Angela')
 professor4 = Professor(4, 'Jimmy')
 professor5 = Professor(5, 'Ravi')
