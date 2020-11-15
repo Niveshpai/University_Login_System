@@ -11,13 +11,13 @@
 </p>
 
 
-![Logo]()
+![Logo](https://user-images.githubusercontent.com/59831140/99196024-a53e0f80-27af-11eb-821d-3a7a7342988f.png)
 
 
 ## Main Video
 
 This is the final version of the video : </br>
-[Leen University Login System](https://user-images.githubusercontent.com/59831140/99196024-a53e0f80-27af-11eb-821d-3a7a7342988f.png)
+[Leen University Login System](.)
 
 ## Inspiration
 Due to the pandemic situation, most of the universities have closed down and have switched to online mode. A system for regular attendance of the professor and students has become a necessity. Students can also choose courses easily using given choices. </br>
