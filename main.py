@@ -5,9 +5,9 @@ def main():
     print('Welcome to the virtual university!')
     studentOrProfessor()
 
-# It will show [1]Student name [2]Professor name [3]Students of particular course
+# It will show [1]Student  [2]Professor  [3]Students of particular course
 def studentOrProfessor():
-    print('1) Student name   2) Professor name    3) see the courses')
+    print('1) Student   2) Professor     3) see the courses')
     # noinspection PyBroadException
     try:
         answer = int(input())
@@ -29,6 +29,7 @@ def studentNumber():
     print('Enter you University Student Number: ')
     global numStudent
     numStudent = int(input())
+    #Please start the roll number from 101, since it is technically not possible for me to include a large list starting from 1.
     lenOfStudents =  100 + len(Student.numReg) + 1 
     if numStudent in range(101, lenOfStudents):
         studentAuth()
@@ -119,7 +120,7 @@ def professorMenu():
 
 # The Professor is able to see the number of students attending the particular chosen course
 def whichCourseToSee():
-    print('Type the name of the course to list the student attendance : ')
+    print('Type the name of the course to list whether the student is enrolled : ')
     for j in Professor.numReg:
         if j.number == numProfessor:
             for l in range(0, len(j.profCourses)):
