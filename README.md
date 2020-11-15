@@ -45,7 +45,7 @@ I look further to create a description of the courses offered. Add more function
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- ![Main thumbnail](https://user-images.githubusercontent.com/59831140/99196115-40cf8000-27b0-11eb-88c2-2c7855a2f0e8.png)
+ ![Main thumbnail](https://user-images.githubusercontent.com/59831140/99196166-a3288080-27b0-11eb-966b-6e672e2d571e.png)
 
 
 
