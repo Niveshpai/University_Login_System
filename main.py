@@ -29,8 +29,8 @@ def studentNumber():
     print('Enter you University Student Number: ')
     global numStudent
     numStudent = int(input())
-    lenOfStudents =  100 + len(Student.numReg) + 1 # student numbers are start from 9701
-    if numStudent in range(9701, lenOfStudents):
+    lenOfStudents =  100 + len(Student.numReg) + 1 
+    if numStudent in range(101, lenOfStudents):
         studentAuth()
     else:
         print('Wrong Student Number Inputted!')
