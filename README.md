@@ -58,7 +58,7 @@ I look further to create a description of the courses offered. Add more function
 
 * Python : https://www.python.org/
 * Visual Studio Code : https://code.visualstudio.com/docs/python/python-tutorial
-* YouTube : https://www.youtube.com/watch?v=RHu3mQodroM&ab_channel=edureka%21
+* YouTube : https://www.youtube.com/watch?v=WGJJIrtnfpk&ab_channel=edureka%21
 
 <!-- CONTACT -->
 ## Contact
