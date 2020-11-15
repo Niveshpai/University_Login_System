@@ -10,9 +10,9 @@
   </p>
 </p>
 
-
-![Logo](https://user-images.githubusercontent.com/59831140/99196024-a53e0f80-27af-11eb-821d-3a7a7342988f.png)
-
+<p align="center">
+<img src = https://user-images.githubusercontent.com/59831140/99196024-a53e0f80-27af-11eb-821d-3a7a7342988f.png>
+</]>
 
 ## Main Video
 
