@@ -10,7 +10,7 @@ professor5 = Professor(5, 'Ravi')
 professor6 = Professor(6, 'Joe')
 
 English = Course(1, 'English')
-Artifical_Intelligence = Course(2, 'Artifical Intelligence')
+Artificial_Intelligence = Course(2, 'Artificial Intelligence')
 Machine_Learning = Course(3, 'Machine Learning')
 Ethical_Hacking = Course(4, 'Ethical Hacking')
 Javascript = Course(5, 'Javascript')
