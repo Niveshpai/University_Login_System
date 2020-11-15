@@ -1,10 +1,10 @@
 from course_uni import Course
 
 class Professor:
-    #common base class for all professors
+    # Global declaration of base class
     numReg = []
 
-    # basic init method for Course class
+    # Initialize course class
     def __init__(self, number, family, profCourses=None):
         if profCourses is None:
             profCourses = []
@@ -13,13 +13,13 @@ class Professor:
         self.family = family
         self.profCourses = profCourses
 
-    # when called, the professor family and instructed courses will be shown
+    # Welcome message for respective professor and details of particular courses
     def displayProfessor(self, numProfessor):
         if self.number == numProfessor:
             print('Welcome  Dr.' + self.family)
             print('You are the instructor of %d course(s) ' % len(self.profCourses))
 
-    # when called, new course will be added to the profCourses list
+    # On selecting appropriate option, a new course will be added to the professor's list.
     @staticmethod
     def professorCourseGiving(newCourseOption, numProfessor):
         for k in Course.numReg:
