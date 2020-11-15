@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Niveshpai/University_Login_System">
   </a>
-  <h1 align="center">University Login System</h1>
+  <h1 align="center">Leen University Login System</h1>
   <p align="center">
     This is used to create a login system for students and professors.
     <br />
