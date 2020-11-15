@@ -2,7 +2,7 @@ from objects import *
 courseList = [k.name for k in Course.numReg]
 
 def main():
-    print('Welcome to the virtual university!')
+    print('Welcome to the Leen University!')
     studentOrProfessor()
 
 # It will show [1]Student  [2]Professor  [3]Students of particular course
