@@ -16,8 +16,7 @@
 
 ## Main Video
 
-This is the final version of the video : </br>
-[Leen University Login System](https://youtu.be/FkkWSYb2tEc)
+This is the final version of the video : [Leen University Login System](https://youtu.be/FkkWSYb2tEc)
 
 ## Inspiration
 Due to the pandemic situation, most of the universities have closed down and have switched to online mode. A system for regular attendance of the professor and students has become a necessity. Students can also choose courses easily using given choices. </br>
