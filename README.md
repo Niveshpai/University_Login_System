@@ -30,7 +30,7 @@ I used python in Visual Studio Code to build the python code. Based on the knowl
 Primarily being a C developer, I am new to python. I faced problems with lot of syntax error, argument error, function error and so on. It took me a lot of time to firstly find it and then rectify the same. </br>
 
 ## Accomplishments that I'm proud of
-I am proud that I was able to learn a majority of python language. Usually, I take up days to understand certain parts of software but I was able to complete this within the mentioned deadline. </br>N
+I am proud that I was able to learn a majority of python language. Usually, I take up days to understand certain parts of software but I was able to complete this within the mentioned deadline. </br>
  
 ## What I learned
 I learned to code in Python. I learnt tons of basic functions, tricks, syntax formatting et cetera. Furthermore, I also improved my image editing skills.. </br>
