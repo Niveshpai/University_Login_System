@@ -17,7 +17,7 @@
 ## Main Video
 
 This is the final version of the video : </br>
-[Leen University Login System](.)
+[Leen University Login System](https://youtu.be/FkkWSYb2tEc)
 
 ## Inspiration
 Due to the pandemic situation, most of the universities have closed down and have switched to online mode. A system for regular attendance of the professor and students has become a necessity. Students can also choose courses easily using given choices. </br>
@@ -31,7 +31,7 @@ It is used by
 I used python in Visual Studio Code to build the python code. Based on the knowledge of login system, I have created the python code. I have also used Canva to create the thumbnail down below. </br>
 
 ## Challenges I ran into
-Primarily being a C developer, I am new to python. I faced problems with lot of syntax error, argument error, function error and so on. It took me a lot of time to firstly find it and then rectify the same. </br>
+Primarily being a C developer, I am new to python. I faced problems with a lot of syntax errors, argument error, function error, and so on. It took me a lot of time to firstly find it and then rectify the same. </br>
 
 ## Accomplishments that I'm proud of
 I am proud that I was able to learn a majority of python language. Usually, I take up days to understand certain parts of software but I was able to complete this within the mentioned deadline. </br>
