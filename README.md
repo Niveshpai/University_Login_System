@@ -10,10 +10,12 @@
   </p>
 </p>
 
+![Logo](https://user-images.githubusercontent.com/59831140/99195943-031e2780-27af-11eb-902c-cbb7e454eeac.png)
+
 ## Main Video
 
 This is the final version of the video : </br>
-[Vaporwave Final Video](https://youtu.be/RN-gt2ciLec)
+[Leen University Login System](.)
 
 ## Inspiration
 Due to the pandemic situation, most of the universities have closed down and have switched to online mode. A system for regular attendance of the professor and students has become a necessity. Students can also choose courses easily using given choices. </br>
@@ -49,7 +51,7 @@ I look further to create a description of the courses offered. Add more function
 
 * Python
 * Visual Studio Code
-* Canva [For Visual Imagery i.e thumbnail]
+* Canva [For Visual Imagery i.e thumbnail and logo]
 
 ## Reference Links
 
