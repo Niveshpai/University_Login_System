@@ -63,8 +63,6 @@ I look further to create a description of the courses offered. Add more function
 <!-- CONTACT -->
 ## Contact
 
-Email - niveshpai123@gmail.com </br> </br>
-Twitter - [@Niveshpai](https://twitter.com/Niveshpai) </br> </br>
 Project Link: [https://github.com/Niveshpai/University_Login_System](https://github.com/Niveshpai/University_Login_System)
 
 
